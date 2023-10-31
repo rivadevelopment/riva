@@ -1,0 +1,13 @@
+step 1
+open install/install.sql  and import this database file into your database.
+
+step 2
+open config.php and replace your domain name in line 3 in apiurl
+
+step 3
+in the same config.php file change your databse configuration in the end of file.
+
+step 4
+open api/config/database.php and change your database settings over there as well.
+
+open your website, your site is live and working.
